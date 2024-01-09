@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marco-Nagy
-- 👀 I’m interested in android developing
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in flutter developing
+- 🌱 I’m currently learning data sstructure and algorithm's 
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me marconbishay@gmail.com
 
