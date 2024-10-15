@@ -9,101 +9,84 @@
 Marco-Nagy/Marco-Nagy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Marco Nagy Louka
+# Hi, I'm Marco Nagy Louka 👋
 
-- **Location**: El-Montaza, Alexandria, Egypt
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com)
-- **GitHub**: [GitHub](https://github.com/Marco-Nagy)
-- **Email**: Marconbishay@gmail.com
-- **Phone**: +20 1220407005
+## Flutter Developer | Cross-Platform Mobile App Enthusiast
 
-## Work History
+I specialize in developing mobile applications with Flutter, leveraging my experience in both iOS and Android platforms. With a solid understanding of REST APIs, GraphQL, and state management techniques, I aim to deliver high-quality, scalable, and user-friendly apps.
 
-### Flutter Developer  
-**Vetanoia**, Alexandria  
-**03/2022 – Present**
+---
 
-- Assisted in the development and maintenance of cross-platform mobile applications using the Flutter framework.
-- Collaborated with senior developers to implement user interfaces based on design specifications.
-- Gained exposure to integrating RESTful APIs to fetch and display data within mobile applications.
-- Contributed to the implementation of third-party libraries and plugins to enhance application features.
-- Conducted testing and bug fixing under the guidance of senior team members.
-- Actively participated in team meetings and contributed ideas to improve development processes.
+### 🛠️ **Technologies & Tools** 
 
-## Work Projects
+- **Languages & Frameworks**:  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat)  
+  RESTful APIs | GraphQL | Firebase | OOP | SOLID Principles  
 
-### GARAS ERP
-- **Description**:  
-  Garas is a full ERP system with various modules. I worked on the accounting modules, admin settings, and reports.
-  
-### Royal Tents
-- **Description**:  
-  Royal Tents assists in taking measurements and dimensions to create 3D design tents. The app helps place orders and generate PDF invoices.
+- **State Management**:  
+  ![BLoC](https://img.shields.io/badge/BLoC-02569B?logo=bloc&logoColor=white&style=flat) ![Provider](https://img.shields.io/badge/Provider-0175C2?logo=provider&logoColor=white&style=flat)  
 
-## Personal Projects
+- **Development Tools**:  
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat) ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=white&style=flat)
 
-### Shoply – Flutter E-commerce App (Under Development)
-- **GitHub Link**: [Shoply](https://github.com/Marco-Nagy/shoply_app/tree/development)
-- **Description**:  
-  Shoply is a mobile e-commerce application built using Flutter. The app offers a seamless shopping experience with features like product browsing, adding items to a cart, and completing online purchases.
-  
-- **Technologies Used**:
-  - Fastlane and GitHub Actions for CI/CD pipeline setup.
-  - REST APIs and GraphQL for dynamic product data fetching.
-  - Clean Architecture to follow solid principles.
-  - Unit Testing for validating app functionalities.
-  - Flutter Flavors for different development and deployment flavors.
-  - Push Notifications to notify users of offers and discounts.
+---
 
-- **Next Steps**:
-  - Adding a payment gateway.
-  - Implementing cart functionality using Firebase.
-  - Local notifications.
-  - Dynamic product link sharing.
-  - Enhanced search and filter functionality.
+### 🔧 **Projects**
 
-### Bookly
-- **GitHub Link**: [Bookly](https://github.com/Marco-Nagy/bookly_app)
-- **Description**:  
-  Bookly is a comprehensive mobile app for previewing and purchasing books and e-books. It features a splash screen, home screen, details screen, and web-view screen.
-  
-- **Technologies Used**:  
-  MVVM, Dependency Injection, WebView, Dio for APIs.
+#### [Shoply – Flutter E-commerce App](https://github.com/Marco-Nagy/shoply_app/tree/development)  
+A mobile e-commerce application that offers users a seamless shopping experience. Features product browsing, cart functionality, and integration with product APIs.
 
-## Skills
+**Key Features**:
+- REST APIs and GraphQL integration for product data.
+- CI/CD setup using Fastlane and GitHub Actions.
+- Clean Architecture following SOLID principles.
+- Push notifications for offers and discounts.
+- Flutter Flavors for development and production.
 
-- Flutter Development
-- Dart
-- OOP
-- SOLID Principles
-- Clean Code
-- Problem Solving
-- Data Structures
-- RESTful APIs
-- GraphQL
-- Firebase
-- Unit Testing
-- Git
-- State Management (BLoC, Provider)
-- Design Patterns (MVVM, Clean Architecture)
-- Agile Development
-- Communication Skills
-- English Proficiency
+**Next Steps**:
+- Payment gateway integration.
+- Local notifications and cart implementation with Firebase.
+- Enhancing search and filtering.
 
-## Education
+#### [Bookly – Book Preview & Purchase App](https://github.com/Marco-Nagy/bookly_app)  
+A mobile app designed for previewing and purchasing books and e-books.
 
-**Bachelor of Commerce**  
-Faculty of Commerce, Alexandria University  
-**Graduated**: May 2011, Egypt
+**Technologies**: MVVM, Dependency Injection, WebView, Dio for APIs.
 
-## Certifications
+---
+
+### 💼 **Experience**
+
+#### Flutter Developer  
+**Vetanoia**, Alexandria (03/2022 – Present)  
+
+- Developed and maintained cross-platform mobile apps using Flutter.
+- Integrated RESTful APIs for data fetching and display.
+- Collaborated with senior developers to build user interfaces and features.
+- Contributed to app enhancements through third-party libraries and plugins.
+- Participated in testing, bug fixing, and team meetings to optimize the development process.
+
+---
+
+### 🎓 **Education**
+
+- **Bachelor of Commerce**  
+  Faculty of Commerce, Alexandria University  
+  Graduated: May 2011
+
+---
+
+### 📜 **Certifications**
 
 - **Computer Science Programming Fundamentals (C++)** - Route IT Training Center, 07/2023
 - **Flutter Advanced Course (BLoC and MVVM Pattern)** [Arabic] - Udemy, 12/2023
 - **Clean Architecture in Flutter 3** [Arabic] - Udemy, 06/2022
 - **Complete Flutter & Dart Development Course** [Arabic] - Udemy, 02/2022
-- **Flutter Diploma** - Senior Steps IT Training Center, 02/2022
-- **Android Native Diploma** - Senior Steps IT Training Center, 01/2022
-- **Android Basic Nanodegree** - Udacity, 01/2021
-- **Android Native Diploma** - Reload Academy, 11/2020
 
+---
+
+### 📫 **Contact Me**
+
+- **GitHub**: [Marco Nagy](https://github.com/Marco-Nagy)
+- **LinkedIn**: [Marco Nagy Louka](https://www.linkedin.com/in/marco-nagy)
+- **Email**: [Marconbishay@gmail.com](mailto:Marconbishay@gmail.com)
