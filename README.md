@@ -80,7 +80,9 @@ A mobile app designed for exploring, previewing, and purchasing books and e-book
 - **Bachelor of Commerce** – Alexandria University, Egypt.
 - Completed advanced courses in **Flutter**, **BLoC**, and **Clean Architecture** from **Udemy** and **Senior Steps** IT training center.
 - Developed multiple mobile applications and integrated third-party libraries and APIs for optimized performance and user experience.
-
+- Quickdraw: Awarded for making fast actions on GitHub, showcasing responsiveness in contributions.
+- YOLO: For making bold contributions, reflecting an innovative and risk-taking approach to development.
+- Pull Shark: Recognized for outstanding pull request activity, contributing to collaborative code improvements.
 ---
 
 
