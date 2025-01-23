@@ -4,17 +4,7 @@
 <p align="Left">
   <img src="https://komarev.com/ghpvc/?username=Marco-Nagy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-<p align="center">
-  <a href="mailto:marconbishay@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-marconbishay@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/marco-nagy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-marco--nagy-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Marco-Nagy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Marco--Nagy-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+
 
 ---
 
@@ -45,18 +35,46 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
 ---
 
-### 📚 **Highlighted Projects**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-nagy&label=Profile%20views&color=0e75b6&style=flat" alt="marco-nagy" /> </p>
 
-#### [Shoply – Flutter E-commerce App](https://github.com/Marco-Nagy/shoply_app/tree/development)
-A mobile e-commerce app allowing users to browse, purchase products, and manage their cart. It features:
-- **Technologies**: REST APIs, GraphQL, Firebase, Clean Architecture
-- **Current Work**: Integrating payment gateway and Firebase cart functionality.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco-nagy" alt="marco-nagy" /></a> </p>
 
-#### [Bookly – Book Preview & Purchase App](https://github.com/Marco-Nagy/bookly_app)
-A mobile app designed for exploring, previewing, and purchasing books and e-books.
-- **Technologies**: MVVM, Dio for APIs, Dependency Injection.
+- 🔭 I’m currently working on [Flowery](https://github.com/Marco-Nagy/flowery_app)
+
+- 👯 I’m looking to collaborate on [Flowery Delivery](https://github.com/YasmeenGad/Flowery-Tracking-App)
+
+- 🤝 I’m looking for help with [Shoply](https://github.com/Marco-Nagy/shoply_app)
+
+- 📫 How to reach me **marconbishay@gmail.com**
+
+- 📄 Know about my experiences [https://flowcv.com/resume/qu1gdo9sq6](https://flowcv.com/resume/qu1gdo9sq6)
+
+<h3 align="left">Connect with me:</h3>
+
+  <p align="center">
+  <a href="mailto:marconbishay@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-marconbishay@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+    
+  <a href="https://www.linkedin.com/in/marco-nagy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-marco--nagy-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Marco-Nagy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Marco--Nagy-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+
 
 ---
+
+
 
 ### 📈 **GitHub Stats**
 
