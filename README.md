@@ -53,14 +53,14 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
   <p align="center">
   <a href="mailto:marconbishay@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-marconbishay@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-marconbishay@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=dark" alt="Email">
   </a>
     
   <a href="https://www.linkedin.com/in/marco-nagy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-marco--nagy-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-marco--nagy-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=dark" alt="LinkedIn">
   </a>
   <a href="https://github.com/Marco-Nagy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Marco--Nagy-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Marco--Nagy-%2312100E.svg?style=for-the-badge&logo=github&logoColor=dar$theme=radical" alt="GitHub">
   </a>
 </p>
 </a>
@@ -79,19 +79,24 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 ### 📈 **GitHub Stats**
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Nagy&show_icons=true&locale=en&layout=compact" alt="Marco Nagy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marco-Nagy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Marco Nagy" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marco-Nagy&show_icons=true&locale=en" alt="Marco Nagy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marco-Nagy&show_icons=true&layout=compact&theme=radical" alt="Marco Nagy" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marco-Nagy&" alt="Marco Nagy" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marco-Nagy&show_icons=true&layout=compact&theme=radical&" alt="Marco Nagy" />
 </p>
 
 
 ---
+
+
+
+
+
 
 ### 🏆 **Achievements**
 
